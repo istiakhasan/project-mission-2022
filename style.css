@@ -127,7 +127,11 @@ span{
 .community-item{
     flex: 40%;
     padding-left: 20vh;
+    
  
+}
+.community-item>p{
+    text-align: left;
 }
 .community-item>img{
     padding-top: 15vh;
